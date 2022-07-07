@@ -1,5 +1,6 @@
 # DS4A Capstone
 
-[Team125_Datafolio](https://github.com/lmm2020/DS4A-CapstoneProject/files/9060691/Team125_Datafolio.pdf)
+![image](https://user-images.githubusercontent.com/21350592/177700403-2cd6356e-202d-402c-9b85-8589586806aa.png)
 
-Tableau Dashboard: [Team 125 Dashboard] (https://public.tableau.com/views/Team125Dashboard/Team125Dashboard_1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Tableau Dashboard: https://public.tableau.com/views/Team125Dashboard/Team125Dashboard_1?:language=en-US&:display_count=n&:origin=viz_share_link
